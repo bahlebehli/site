@@ -7,7 +7,8 @@
 }
 
 a {color: Black; 
-
+padding:10px;
+text-decoration: none;
 }
 
 .nav-items {
@@ -15,13 +16,16 @@ a {color: Black;
 	background-color:pink;
 	font-weight:bold;
 	text-align: right;
-    padding:0
+	padding-right:150px;
 }
+
 .logo {
 	color: Black;
 	background-color:pink;
 	font-weight:bold;
 	font-style:italic;
+	font-size: 125%;
+	position:absolute;
 }
 
 .poem {
@@ -30,7 +34,6 @@ a {color: Black;
 	font-weight:bold;
 	font-style:italic;
 	text-align:center;
-	
 }
 .foot {
 	color: Black;

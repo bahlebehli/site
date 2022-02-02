@@ -3,7 +3,7 @@
 */
 * {
 	color: Black;
-	background-color: pink;
+	background-color:white;
 }
 
 a {color: Black; 
@@ -13,7 +13,7 @@ text-decoration: none;
 
 .nav-items {
 	color: Black;
-	background-color:pink;
+	background-color:white;
 	font-weight:bold;
 	text-align: right;
 	padding-right:150px;
@@ -21,7 +21,7 @@ text-decoration: none;
 
 .logo {
 	color: Black;
-	background-color:pink;
+	background-color:white;
 	font-weight:bold;
 	font-style:italic;
 	font-size: 125%;
@@ -30,14 +30,14 @@ text-decoration: none;
 
 .poem {
 	color: Black;
-	background-color: pink;
+	background-color: white;
 	font-weight:bold;
 	font-style:italic;
 	text-align:center;
 }
 .foot {
 	color: Black;
-	background-color:pink;
+	background-color:white;
 	text-align: center;
 	
 }
